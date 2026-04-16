@@ -42,7 +42,7 @@ cd ~/Загрузки/ZmkBatteryClient-master
 ./target/release/ZmkBatteryClient DD:5E:72:DC:9B:53
 ```
 
-## 2. Почему Waybar не подходит для данного Linux Mint
+## 2. Почему Waybar не подходит для Linux Mint
 
 В текущем окружении используется сеанс `X11` и рабочий стол `Cinnamon`. Для такого режима Waybar использовать не следует.
 
